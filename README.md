@@ -5,7 +5,7 @@ and an empty space in the configuration shown in the following figure:
 
  +---------------------------+
  
- |  B  |  B  |  B  |  |  W  |  W  |  W  |
+ | B | B | B |    | W | W | W |
  
  +---------------------------+
  
